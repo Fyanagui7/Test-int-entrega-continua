@@ -11,7 +11,7 @@ def home():
     imprimir("Olá, mundo!")
     return "Olá Mundo"
 @app.route("/")
-def home():
+def home()
     peso = 70
     altura = 1.80
     
